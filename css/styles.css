@@ -12,6 +12,11 @@ body {
         height: 100vh;
         overflow: hidden;
 }
+.penguin {
+    width: 300px;
+    height: 300px;
+    margin: 75px auto 0 auto;
+}
 .ground {
     width:  100vw;
     height: 400px;
