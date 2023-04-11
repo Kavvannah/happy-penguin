@@ -12,7 +12,7 @@ body {
         height: 100vh;
         overflow: hidden;
 }
-.sun{
+.sun {
     width: 200px;
     height: 200px;
     background-color: rgb(255, 255, 0);
@@ -46,11 +46,16 @@ body {
     z-index: 4;
     position: relative;
 }
-.penguin-head{
+.penguin-head {
     width: 50%;
     height: 45%;
     background: linear-gradient(45deg, rgb(128, 128, 128), rgb(239, 240, 228));
     border-radius: 70% 70% 65% 65%;
+}
+.penguin-head {
+    width: 53%;
+    height: 45%;
+    background: linear-gradient();
 }
 .ground {
     width:  100vw;
