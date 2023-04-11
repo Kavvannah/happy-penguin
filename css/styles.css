@@ -50,6 +50,9 @@ body {
     z-index: 4;
     position: relative;
 }
+.penguin * { /*universal selector can also be used to select all descendants*/
+    position: absolute;
+}
 .penguin-head {
     width: 50%;
     height: 45%;
